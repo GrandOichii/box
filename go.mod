@@ -2,7 +2,7 @@ module github.com/GrandOichii/box
 
 go 1.17
 
-require github.com/GrandOichii/colorwrapper v0.0.0-20220203103117-b874d1231741
+require github.com/GrandOichii/colorwrapper v1.0.0
 
 require (
 	github.com/fatih/color v1.13.0 // indirect
